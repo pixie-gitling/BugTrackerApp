@@ -1,0 +1,50 @@
+[{
+  "_id": {
+    "$oid": "6667e4fb887cae05f053f61a"
+  },
+  "message": "New Chat From Tester",
+  "type": "chat",
+  "redirect": "/bug/663332bbf7327bfc8a9e7425/chat",
+  "recipents": [
+    "admin"
+  ],
+  "time": {
+    "$date": "2024-06-11T05:47:39.097Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6667e660d593886319cbd023"
+  },
+  "message": "New Chat From Admin",
+  "type": "chat",
+  "redirect": "/bug/663332bbf7327bfc8a9e7425/testerchat",
+  "recipents": [
+    "tester3"
+  ],
+  "time": {
+    "$date": "2024-06-11T05:53:36.483Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6667e744d593886319cbd035"
+  },
+  "message": "New forum message",
+  "type": "forum",
+  "redirect": "/forum",
+  "recipents": [
+    "admin",
+    "kiran",
+    "mohit",
+    "priya",
+    "tester1",
+    "tester2"
+  ],
+  "time": {
+    "$date": "2024-06-11T05:57:24.471Z"
+  },
+  "__v": 0
+}]
